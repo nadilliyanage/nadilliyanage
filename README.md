@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadil Liyanage</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h2 align="center">Frontend Developer | Tech Enthusiast | Open Source Contributor</h2>
+
+<img align="right" alt="Coding" width="400" src="assets/coding.gif">
 
 
 <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -53,57 +55,6 @@
 
 <div>
 
-<p><img alt="Nadil Liyange's Top Languages" src="https://camo.githubusercontent.com/cac99f7b2b9bbb3e4bf91b150143303f8bc400a0412195b06be72e0bb1f30ac0/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616c7369616d266c616e67735f636f756e743d38266c61796f75743d636f6d70616374267468656d653d726561637426626f726465725f636f6c6f723d3746334642462662675f636f6c6f723d304431313137267469746c655f636f6c6f723d4638354437462669636f6e5f636f6c6f723d463844383636" height="192px" width="49.5%" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zenruk&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;border_color=7F3FBF&amp;bg_color=0D1117&amp;title_color=F85D7F&amp;icon_color=F8D866" style="max-width: 100%;"></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenruk&show_icons=true&locale=en" alt="zenruk" /></p>
-<div/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenruk&" alt="zenruk" /></p>
-
-![Al Nadil's Graph](https://github-readme-activity-graph.vercel.app/graph?username=zenruk&custom_title=Nadil's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
-<h1 align="center">Hi there 👋, I'm Zenruk</h1>
-<h2 align="center">Frontend Developer | Tech Enthusiast | Open Source Contributor</h2>
-
-<img align="right" alt="Coding" width="400" src="assets/coding.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenruk&label=Profile%20views&color=0e75b6&style=flat" alt="zenruk" /> </p>
-
-- 🔭 I’m currently working on **Open Source Projects**
-- 🌱 I’m currently learning **React and Node.js**
-- 👯 I’m looking to collaborate on **JavaScript Projects**
-- 🤔 I’m looking for help with **Advanced JavaScript Concepts**
-- 💬 Ask me about **JavaScript, HTML, CSS, and Web Development**
-- 📫 How to reach me: **zenruk@example.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love to play chess and solve puzzles**
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/zenruk" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="zenruk"/>
-  </a>
-  <a href="https://twitter.com/zenruk" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="zenruk"/>
-  </a>
-  <a href="https://instagram.com/zenruk" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="zenruk"/>
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.javascript.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E&color=%23FFCE5A" alt="JavaScript"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black&labelColor=%2361DAFB&color=%2361DAFB" alt="React"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  </a>
-</p>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Zenruk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zenruk&show_icons=true&hide_border=true" />
@@ -113,4 +64,13 @@
   <summary>:zap: Most Used Languages</summary>
   <img align="left" alt="Zenruk's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenruk" />
 </details>
+
+<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenruk&" alt="zenruk" /></p></center>
+
+![Al Nadil's Graph](https://github-readme-activity-graph.vercel.app/graph?username=zenruk&custom_title=Nadil's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+
+
+
 
