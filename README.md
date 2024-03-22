@@ -51,12 +51,12 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2021b00ae21b4170be4828e51b3287f4eaac12952739eb13bb9fb314e0a53206/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f51756572792d4646343135343f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742532307175657279266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/2021b00ae21b4170be4828e51b3287f4eaac12952739eb13bb9fb314e0a53206/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f51756572792d4646343135343f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742532307175657279266c6f676f436f6c6f723d7768697465" alt="React Query" data-canonical-src="https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&amp;logo=react%20query&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
-
+<div>
 
 <p><img alt="Nadil Liyange's Top Languages" src="https://camo.githubusercontent.com/cac99f7b2b9bbb3e4bf91b150143303f8bc400a0412195b06be72e0bb1f30ac0/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616c7369616d266c616e67735f636f756e743d38266c61796f75743d636f6d70616374267468656d653d726561637426626f726465725f636f6c6f723d3746334642462662675f636f6c6f723d304431313137267469746c655f636f6c6f723d4638354437462669636f6e5f636f6c6f723d463844383636" height="192px" width="49.5%" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zenruk&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;border_color=7F3FBF&amp;bg_color=0D1117&amp;title_color=F85D7F&amp;icon_color=F8D866" style="max-width: 100%;"></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenruk&show_icons=true&locale=en" alt="zenruk" /></p>
-
+<div/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenruk&" alt="zenruk" /></p>
 
 ![Al Nadil's Graph](https://github-readme-activity-graph.vercel.app/graph?username=zenruk&custom_title=Nadil's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
