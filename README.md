@@ -1,3 +1,4 @@
+![gitPhoto](https://github.com/Nadil14/Nadil14/assets/116505519/2226bce3-504d-4006-890c-fa106c681393)
 <h1 align="center">Hi 👋, I'm Nadil Liyanage</h1>
 <h2 align="center">Frontend Developer | Tech Enthusiast | Open Source Contributor</h2>
 
