@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Nadil Liyanage</h1>
 <h2 align="center">Frontend Developer | Tech Enthusiast | Open Source Contributor</h2>
 
+![221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c](https://github.com/Nadil14/Nadil14/assets/116505519/58fa1fbe-3ff0-41b8-9fd6-01bdb413d2f8)
+
 <img align="right" alt="Coding" width="400" src="assets/coding.gif">
 
 
