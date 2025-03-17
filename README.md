@@ -35,6 +35,10 @@
 
 ---
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nadilliyanage&theme=onedark)](https://github.com/nadilliyanage/github-profile-trophy)
+
+---
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming Languages  
